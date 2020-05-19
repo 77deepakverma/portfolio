@@ -1,0 +1,77 @@
+
+body
+{
+	
+    background-color: palegoldenrod;
+    
+    background-size: cover;
+}
+
+
+
+h1,h3
+{
+	
+ color: goldenrod;
+	
+ font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+p{
+	
+    font-size: large;
+	
+    font-weight: 200;
+	
+    color: black;
+	
+    font-family: 'Roboto', sans-serif;
+	
+
+}
+h3 {
+    font-size: 1.6rem;
+    color: goldenrod;
+
+}
+
+.ack{
+    font-size: 2rem;
+    color: gold;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-style: italic;
+}
+.box1{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 500px;
+    
+    padding-left: 20px;
+    padding-right: 20px ;
+}
+.box2{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: lightcoral;
+    font-size: xx-large;
+    font-weight: bold;
+    
+    background-size: cover;
+ color: rgb(160, 63, 63);
+}
+
